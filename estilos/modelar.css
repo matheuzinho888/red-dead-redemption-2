@@ -43,7 +43,7 @@ a {
     align-items: center;
 }
 .blocos .caixa.c1 img{
-    width: 400px;
+    width: 360px;
     height: 500px;
     padding-right: 120px;
 
@@ -80,7 +80,7 @@ a {
     
 }
 .blocos .caixa.c3 img{
-    width: 380px;
+    width: 360px;
     height: 500px;
     padding-left: 150px;
 }
@@ -98,7 +98,7 @@ a {
     
 }
 .cabecario {
-    background-color: rgb(2, 1, 1);
+    background-color: black;
     display: flex;
     flex-wrap: nowrap;
     height: 78px;
