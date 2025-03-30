@@ -27,7 +27,8 @@ html {
     width: 350px;
     margin-inline: 30px;
 }
-p{
+
+h1{
     color: white;
     font-family: dead;
     display: flex;
@@ -39,6 +40,12 @@ p{
     padding-bottom: 50px;
     text-align: center;
 }
+p{
+    color: white;
+    font-family: dead;
+    width: 40%;
+
+}
 .menu {
     display: flex;
     align-items: center;
@@ -47,10 +54,12 @@ p{
 .image{
     display: flex;
 }
+
 .image img{
     height: 800px;
     width: 480px;
-    padding-left: 30px;
+    padding-left: 70px;
+    padding-top: 30px;
 }
 .image p{
     text-align:left;
