@@ -119,6 +119,7 @@ html {
 .toi {
     display: flex;
     justify-content: flex-start; margin: 10px;padding-top: 15px;
+    padding-bottom: 15px
 }
 .toi li{
     color: rgb(192, 16, 10);
@@ -130,6 +131,68 @@ html {
     font-family: dead;
     margin: 0px;
     padding-bottom: 23px;
+}
+.imagens {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+h4{
+    color: white;
+    font-family: dead;
+    justify-content: center;
+    display: flex;
+    font-size: xx-large;
+}
+
+.imagens img {
+    width: 100%;
+    height: 93%;
+}
+.imagens p{
+    padding-left: 80px;
+}
+a{
+    text-decoration: none;
+}
+.texto{
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    color: white;
+    font-family: dead;
+    width: 75%;
+}
+
+.fin{
+    display: flex;
+    font-family: dead;
+    justify-content: center;
+    align-items: center;
+}
+.fin p{
+    color: white;
+    font-family: dead;
+    width: 41%;
+}
+.final h2{
+    color: white;
+    font-family: dead;
+    display: flex;
+    justify-content: center;
+}
+.textfinal p{
+color: white;
+width: 60%;
+font-family: dead;
+text-align: center;
+
+}
+.fin img{
+    width: 40%;
+    height: 100%;
 }
 .menu li a {
     color: white;

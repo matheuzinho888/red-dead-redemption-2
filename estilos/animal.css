@@ -105,6 +105,9 @@ h3{
     margin-left: 55px;
 
 }
+a{
+    text-decoration: none;
+}
 .va {
     width: 30%; 
     text-align: center; 
