@@ -71,22 +71,65 @@ html {
     padding: 5px; 
     height: 540px;
 }
-h2{
+.p1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.p1 p{
+    color: white;
+    width: 40%;
+    display: flex;
+    text-align: center;
+    font-family: dead;
+    padding-bottom: 30px;
+}
+.p1 h2{
     color: white;
     font-family: dead;
     display: flex;
     justify-content: center;
+    margin: 5px;
+    padding-top: 40px;
 }
 .tit {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center; 
+    justify-content: flex-start; margin: 10px;padding-top: 15px;
+}
+.tit li{
+    color: rgb(37, 175, 37);
+    font-family: dead;
+
+}
+.tit h3{
+    color: rgb(17, 196, 17);
+    font-family: dead;
+    margin: 0px;
+    padding-bottom: 23px;
 
 }
 .tit img{
     width: 40%;
     height: 100%;
+}
+.toi img{
+    width: 40%;
+    height: 100%;
+}
+.toi {
+    display: flex;
+    justify-content: flex-start; margin: 10px;padding-top: 15px;
+}
+.toi li{
+    color: rgb(192, 16, 10);
+    font-family: dead;
+
+}
+.toi h3{
+    color: rgb(218, 30, 30);
+    font-family: dead;
+    margin: 0px;
+    padding-bottom: 23px;
 }
 .menu li a {
     color: white;
