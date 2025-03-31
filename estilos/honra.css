@@ -99,14 +99,14 @@ html {
 .tit li{
     color: rgb(37, 175, 37);
     font-family: dead;
-
+    
 }
 .tit h3{
     color: rgb(17, 196, 17);
     font-family: dead;
     margin: 0px;
     padding-bottom: 23px;
-
+    padding-left: 25px;
 }
 .tit img{
     width: 40%;
@@ -124,6 +124,7 @@ html {
 .toi li{
     color: rgb(192, 16, 10);
     font-family: dead;
+    padding-left: 25px;
 
 }
 .toi h3{
@@ -131,6 +132,7 @@ html {
     font-family: dead;
     margin: 0px;
     padding-bottom: 23px;
+    padding-left: 25px;
 }
 .imagens {
     display: flex;

@@ -13,35 +13,6 @@ html {
     width: 100%;
     height: 100%;
     background-color: black;
-}.menu {
-    display: flex;
-    align-items: center;
-}
-a{
-    text-decoration: none;
-}
-.menu li {
-    margin-left: 30px;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-content: center;
-}
-
-.menu li a {
-    color: white;
-    display: block;
-    padding: 10px;
-}
-
-.menu li img {
-    width: 100px;
-    margin-inline-end: 20px;
-}
-
-.menu img {
-    margin: 0;
-    width: 90px;
 }
 .cabecario {
     background-color: black;
@@ -55,7 +26,36 @@ a{
 .cabecario img {
     width: 350px;
     margin-inline: 30px;
+}
+.menu {
+    display: flex;
+    align-items: center;
+}
+.menu li {
+    margin-left: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+}
 
+a{
+    text-decoration: none;
+}
+
+.menu li a {
+    color: white;
+    display: block;
+    padding: 10px;
+}
+
+.menu li img {
+    width: 100px;
+    margin-inline-end: 20px;
+}
+.menu img {
+    margin: 0;
+    width: 90px;
 }
 
 #divBusca {
@@ -141,4 +141,6 @@ h1{
 .reso img{
     width: 40%;
     height: 100%;
+    border: 5px solid white;
+    border-radius: 10px;
 }
