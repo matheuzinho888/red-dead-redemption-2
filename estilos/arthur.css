@@ -47,7 +47,21 @@ p{
     color: white;
     font-family: dead;
     width: 40%;
-
+}
+.fundode{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: dead;
+    margin: 0%;
+    padding-top: 10px;
+}
+.fundode img{
+    width: 55%;
 }
 .menu {
     display: flex;

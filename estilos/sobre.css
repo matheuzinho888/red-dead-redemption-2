@@ -38,17 +38,14 @@ html {
     flex-direction: row;
     align-content: center;
 }
-
 a{
     text-decoration: none;
 }
-
 .menu li a {
     color: white;
     display: block;
     padding: 10px;
 }
-
 .menu li img {
     width: 100px;
     margin-inline-end: 20px;
@@ -57,7 +54,6 @@ a{
     margin: 0;
     width: 90px;
 }
-
 #divBusca {
     margin: 6px;
     background-color: white;
@@ -68,12 +64,10 @@ a{
     align-content: center;
     margin-left: 10px;
 }
-
 #divBusca img {
     height: 30px;
     width: 30px;
 }
-
 #txtBusca {
     display: flex;
     float: left;
